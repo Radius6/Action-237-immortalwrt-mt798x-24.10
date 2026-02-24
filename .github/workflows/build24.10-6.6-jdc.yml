@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: Build immortalwrt24.10-6.6 AP CMCC-A10
+name: Build immortalwrt24.10-6.6 JDCloud-AX6000-Baili
 
 on:
   repository_dispatch:
